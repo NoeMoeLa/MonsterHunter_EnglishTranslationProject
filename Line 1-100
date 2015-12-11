@@ -1,0 +1,100 @@
+	莉莉
+	回复药
+	"<FONT COLOR=""#68A16A"" >饮用：恢复30点体力</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和、商店</FONT><BR>"
+	耐力药
+	"<FONT COLOR=""#68A16A"" >饮用：增加20点耐力上限</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和、商店</FONT><BR><BR><I><FONT COLOR=""#C6B262"">DISCARD</FONT></I>"
+	麻痹陷阱
+	"<FONT COLOR=""#68A16A"" >放置：在地上铺设陷阱，大型怪物进入后将被麻痹</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR><BR><I><FONT COLOR=""#C6B262"">注意：对部分大型怪物无效</FONT></I>"
+	解毒药
+	"<FONT COLOR=""#68A16A"" >饮用：解除“中毒”状态</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和、商店</FONT><BR>"
+	砥石
+	"<FONT COLOR=""#68A16A"" >使用：提高当前装备的近战武器的锋利度</FONT><BR><FONT COLOR=""#6285C6"" >来源：采集、庄园、商店</FONT><BR>"
+	闪光玉
+	"<FONT COLOR=""#68A16A"" >投掷：丢出闪光玉，发出强烈闪光，能使怪物暂时失明</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	音爆玉
+	"<FONT COLOR=""#68A16A"" >投掷：丢出音爆玉，发出强烈音波，干扰特定怪物的行为</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	药草
+	"<FONT COLOR=""#68A16A"" >食用：恢复10点体力</FONT><BR><FONT COLOR=""#6285C6"" >来源：采集、庄园</FONT><BR>"
+	冷饮
+	"<FONT COLOR=""#68A16A"" >饮用：一定时间内使猎人不受炎热环境影响</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和、商店</FONT><BR>"
+	热饮
+	"<FONT COLOR=""#68A16A"" >饮用：一定时间内使猎人不受寒冷环境影响</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和、商店</FONT><BR>"
+	强走药
+	"<FONT COLOR=""#68A16A"" >饮用：一定时间内猎人耐力不减少，同时增加耐力上限</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和、商店</FONT><BR>"
+	生命粉尘
+	"<FONT COLOR=""#68A16A"" >投掷：使用后，一定范围内的猎人恢复体力</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和</FONT><BR>"
+	千里眼药
+	"<FONT COLOR=""#68A16A"" >饮用：让猎人视力变得极好，能够知晓大型怪物的所在地</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和</FONT><BR>"
+	半生肉
+	"<FONT COLOR=""#68A16A"" >食用：增加耐力上限25点</FONT><BR><FONT COLOR=""#6285C6"" >来源：烤肉</FONT><BR><BR><I><FONT COLOR=""#C6B262"">没有完全烤熟</FONT></I>"
+	烤熟的肉
+	"<FONT COLOR=""#68A16A"" >食用：增加耐力上限50点</FONT><BR><FONT COLOR=""#6285C6"" >来源：烤肉</FONT><BR><BR><I><FONT COLOR=""#C6B262"">香喷喷</FONT></I>"
+	烤焦的肉
+	"<FONT COLOR=""#68A16A"" >食用：增加或减少耐力上限25点</FONT><BR><BR><I><FONT COLOR=""#C6B262"">饥不择食的选择</FONT></I>"
+	冻肉
+	"<FONT COLOR=""#68A16A"" >食用：可以在短时间内缓和高温的影响，同时增加25点耐力上限</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和</FONT><BR>"
+	温肉
+	"<FONT COLOR=""#68A16A"" >食用：可以在短时间内缓和酷寒的影响，同时增加25点耐力上限</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和</FONT><BR>"
+	半生鱼
+	"<FONT COLOR=""#68A16A"" >食用：恢复暂时损失的体力</FONT><BR><FONT COLOR=""#6285C6"" >来源：烤肉</FONT><BR>"
+	烤熟的鱼
+	"<FONT COLOR=""#68A16A"" >食用：恢复暂时损失的体力，并增加体力的恢复速度</FONT><BR><FONT COLOR=""#6285C6"" >来源：烤肉</FONT><BR>"
+	烤焦的鱼
+	"<FONT COLOR=""#68A16A"" >食用：恢复暂时损失的体力或者失去暂时损失的体力</FONT><BR><FONT COLOR=""#6285C6"" >来源：烤肉</FONT><BR>"
+	毒肉
+	"<FONT COLOR=""#68A16A"" >放置：在地上放置毒肉，怪物食用后可能会中毒</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和</FONT><BR>"
+	眠肉
+	"<FONT COLOR=""#68A16A"" >放置：在地上放置眠肉，怪物食用后可能会睡眠</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和</FONT><BR>"
+	麻肉
+	"<FONT COLOR=""#68A16A"" >放置：在地上放置麻肉，怪物食用后可能会麻痹</FONT><BR><FONT COLOR=""#6285C6"" >来源：药剂调和</FONT><BR>"
+	染色玉
+	"<FONT COLOR=""#68A16A"" >投掷：丢出染色玉，通过鲜明颜色和标志性气味让猎人标记怪物位置</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和、商店</FONT><BR>"
+	烟雾玉
+	"<FONT COLOR=""#68A16A"" >投掷：将烟雾玉丢在地上，产生一团浓厚的烟雾， 猎人置身其中时不会被怪物发现</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	消臭玉
+	"<FONT COLOR=""#68A16A"" >投掷：将消臭玉丢在地上，产生一团洁净气体猎人置身其中可以消除身上带有的“恶臭”</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	毒烟雾玉
+	"<FONT COLOR=""#68A16A"" >投掷：将毒烟雾玉丢在地上，产生一团有毒气体，在小范围内可以毒杀周围的怪物</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR><BR><I><FONT COLOR=""#C6B262"">家庭主妇除虫好帮手</FONT></I>"
+	回家玉
+	"<FONT COLOR=""#68A16A"" >投掷：将回家玉丢到地上，能够立刻回到营地</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	捕获用麻醉玉
+	"<FONT COLOR=""#68A16A"" >投掷：丢出捕获用麻醉玉，用于捕获被陷阱困住的怪物，至少需要投掷2次</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	落穴陷阱
+	"<FONT COLOR=""#68A16A"" >放置：在地上放置落穴陷阱使触碰的怪物陷入地面一段时间</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR><BR><I><FONT COLOR=""#C6B262"">注意：对部分大型怪物无效</FONT></I>"
+	回旋镖
+	"<FONT COLOR=""#68A16A"" >投掷：丢出回旋镖，击中怪物造成少量的伤害</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR><BR><I><FONT COLOR=""#C6B262"">DISCARD</FONT></I>"
+	小刀
+	"<FONT COLOR=""#68A16A"" >投掷：丢出小刀，击中怪物造成少量的伤害</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	毒小刀
+	"<FONT COLOR=""#68A16A"" >投掷：丢出小刀，击中怪物造成少量的伤害，还可能令怪物中毒</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	眠小刀
+	"<FONT COLOR=""#68A16A"" >投掷：丢出小刀，击中怪物造成少量的伤害，还可能令怪物睡眠</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	麻小刀
+	"<FONT COLOR=""#68A16A"" >投掷：丢出小刀，击中怪物造成少量的伤害，还可能令怪物麻痹</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	小桶爆弹
+	"<FONT COLOR=""#68A16A"" >放置：在地上放置一个小桶爆弹，经过一段时间便会爆炸，对附近敌人造成伤害</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	大桶爆弹
+	"<FONT COLOR=""#68A16A"" >放置：在地上放置一个大桶爆弹，经过一段时间便会爆炸，对附近敌人造成伤害</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	飞空爆桶
+	"<FONT COLOR=""#68A16A"" >放置：在地上放置一个飞空爆桶，经过一段时间会飞到上方爆炸，对敌人造成伤害</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	木天蓼爆弹
+	"<FONT COLOR=""#68A16A"" >放置：在地上放置一个木天蓼爆弹，命中目标后会使其受到周围艾露族生物的追打</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	角笛
+	"<FONT COLOR=""#68A16A"" >使用：吹出令怪物愤怒声响的道具，会引起怪物的集中注意</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	恢复笛
+	"<FONT COLOR=""#68A16A"" >使用：吹出振奋的声音，一定范围内的猎人可以恢复20点体力</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	解毒笛
+	"<FONT COLOR=""#68A16A"" >使用：吹出振奋的声音，一定范围内的猎人可解除“中毒”状态</FONT><BR><FONT COLOR=""#6285C6"" >来源：发明调和</FONT><BR>"
+	烤肉架
+	"<FONT COLOR=""#68A16A"" >使用：进行烤肉，需要生肉或者生鱼</FONT><BR><FONT COLOR=""#6285C6"" >来源：商店</FONT><BR><BR><I><FONT COLOR=""#C6B262"">猎人就要会烤肉！</FONT></I>"
+	望远镜
+	"<BR><I><FONT COLOR=""#C6B262"">可以看得更远！DISCARD</FONT></I>"
+	蜂蜜玉
+	"<FONT COLOR=""#68A16A"" >使用：丢出蜂蜜玉，让目标怪物浑身沾满蜂蜜，引来蜜蜂的攻击</FONT><BR>"
+	爆裂果
+	"<FONT COLOR=""#68A16A"" >使用：丢出爆裂果，若碰触到毒潭中的毒花会引起激烈的爆炸</FONT><BR>"
+	紫参草
+	"<FONT COLOR=""#68A16A"" >食用：恢复15点体力</FONT><BR><FONT COLOR=""#6285C6"" >来源：庄园、采集</FONT><BR><BR><I><FONT COLOR=""#C6B262"">DISCARD</FONT></I>"
+	乌骨草
+	"<FONT COLOR=""#68A16A"" >食用：恢复20点体力</FONT><BR><FONT COLOR=""#6285C6"" >来源：庄园、采集</FONT><BR><BR><I><FONT COLOR=""#C6B262"">DISCARD</FONT></I>"
+	白叶草
